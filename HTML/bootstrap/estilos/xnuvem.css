@@ -1,0 +1,14 @@
+
+main nav .logo-background:hover {
+  background-color: #555;
+  border-radius: 100%;
+}
+
+main nav .logo {
+  max-width: 2rem;
+}
+
+.home-nav-background:hover {
+  background-color: #555;
+  border-radius: 5px;
+}

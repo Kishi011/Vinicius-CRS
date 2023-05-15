@@ -1,0 +1,14 @@
+body {
+  font-family: 'Varela Round', sans-serif;
+}
+
+main {
+  background-color: green;
+}
+
+@media screen and (max-width: 1606px) {
+
+  form {
+    width: 25%;
+  }
+}

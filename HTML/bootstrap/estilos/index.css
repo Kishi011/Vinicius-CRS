@@ -1,0 +1,118 @@
+a {
+  text-decoration: none;
+}
+
+.xcaixa_logo {
+  width: 30px;
+}
+
+.login {
+  margin-left: 15px;
+  text-decoration: none;
+  color: #4e4e4e;
+}
+
+.login:hover {
+  cursor: pointer;
+}
+
+login:visited, login:link {
+  color: #4e4e4e;
+}
+
+.icone-login {
+  width: 30px;
+}
+
+.carousel-titulo , .carousel-descricao{
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.icones {
+  padding: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.icone {
+  cursor: pointer;
+  width: 150px;
+}
+
+.icone a:visited, .icone a:link {
+  color: #000;
+}
+
+.icone span {
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+}
+
+.icone:hover span {
+  text-decoration: underline;
+}
+
+.jogo {
+  width: 100%;
+}
+
+footer {
+  display: block;
+  background-color: #eeeeee;
+}
+
+.footer-redes-sociais {
+  display: flex;
+  justify-content: left;
+  padding: 15px;
+}
+
+footer span {
+  align-items: center;
+  font-size: 14px;
+}
+
+.icone-rede-social {
+  cursor: pointer;
+  width: 25px;
+  margin: 0 10px;
+}
+
+.footer-navegacao {
+  display: flex;
+  justify-content: left;
+  padding: 15px;
+}
+
+.footer-navegacao section {
+  padding: 0 50px;
+}
+
+.footer-navegacao ul {
+  list-style: none;
+}
+
+.footer-navegacao li {
+  display: block;
+  padding: 10px 0;
+}
+
+.footer-navegacao li a {
+  font-size: 12px;
+}
+
+.footer-navegacao li a:hover {
+  text-decoration: underline;
+}
+
+.footer-navegacao li a:visited, .footer-navegacao li a:link {
+  color: #4e4e4e;
+}
+
+.copyright{
+  padding: 10px 0;
+  text-align: center;
+}
